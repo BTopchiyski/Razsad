@@ -1,0 +1,5 @@
+C:\Users\topch\source\repos\Razsad\Razsad\obj\Debug\Razsad.csprojAssemblyReference.cache
+C:\Users\topch\source\repos\Razsad\Razsad\obj\Debug\Razsad.Form1.resources
+C:\Users\topch\source\repos\Razsad\Razsad\obj\Debug\Razsad.Properties.Resources.resources
+C:\Users\topch\source\repos\Razsad\Razsad\obj\Debug\Razsad.csproj.GenerateResource.cache
+C:\Users\topch\source\repos\Razsad\Razsad\obj\Debug\Razsad.csproj.CoreCompileInputs.cache
