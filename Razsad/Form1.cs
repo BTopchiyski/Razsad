@@ -21,7 +21,7 @@ namespace Razsad
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+            //asdasdasdsdasdassasassgfgsfkmldsfzgklj;dsfgz ;klj'osdfgjk';pldszfg'kjl;sdfzgknl;dfzgk'l;j
         }
     }
 }
